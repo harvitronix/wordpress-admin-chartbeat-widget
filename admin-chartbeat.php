@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Admin Chartbeat Widget
-Plugin URI: http://freeskier.com
+Plugin URI: https://github.com/harvitronix/wordpress-admin-chartbeat-widget
 Description: Add your current chartbeat analytics into your admin dashboard and post pages.
 Version: 0.1
 Author: Matt Harvey
