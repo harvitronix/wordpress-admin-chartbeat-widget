@@ -1,0 +1,10 @@
+#admin_chartbeat_widget .num_visitors {
+	font-size: 18px;
+	color: #21759b;
+	padding-right: 6px;
+	text-align: right;
+	font-family: Georgia,"Times New Roman","Bitstream Charter",Times,serif;
+}
+#admin_chartbeat_widget tr {
+	line-height: 1.8em;
+}
