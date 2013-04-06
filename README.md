@@ -1,7 +1,7 @@
 Wordpress Admin Chartbeat Widget
 ================================
 
-This is juat a little admin widget for Wordpress to show your current top pages using the Chartbeat API.
+This is just a little admin widget for Wordpress to show your current top pages using the Chartbeat API.
 
 The widget will load on the bottom left of your admin dashboard. Re-order it for better prominence for your writers to see when they log in to Wordpress.
 
