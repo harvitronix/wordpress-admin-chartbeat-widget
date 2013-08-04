@@ -8,3 +8,7 @@
 #admin_chartbeat_widget tr {
 	line-height: 1.8em;
 }
+
+#admin_chartbeat_widget tr a {
+	line-height: 1.4em;
+}
